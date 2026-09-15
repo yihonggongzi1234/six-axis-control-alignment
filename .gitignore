@@ -1,0 +1,12 @@
+# MATLAB autosaves and temporary files
+*.asv
+*.autosave
+*.m~
+*~
+
+# Runtime and exported data
+*.mat
+*.txt
+
+# Generated diagnostic/debug images
+axis_view_candidates.png
